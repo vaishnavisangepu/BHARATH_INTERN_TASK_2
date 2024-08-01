@@ -1,1 +1,2 @@
 # BHARATH_INTERN_TASK_2
+Welcome to the Weather App repository! This project is a simple, yet effective web application that displays real-time weather information for any location. Built using HTML and CSS, the app features a clean and responsive design, ensuring an optimal user experience on both desktop and mobile devices. Explore current weather conditions, temperature, humidity, and more with this intuitive and visually appealing application.
